@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can't lick your elbow
 
 <p align="left">
-  <img width="10%" style="padding:5px" src="https://github.com/blog-a1/blog-a1/blob/main/eye-logo.png"/>
+  <img width="3%" style="padding:5px" src="https://github.com/blog-a1/blog-a1/blob/main/eye-logo.png"/>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/{blog-a1}/count.svg)
