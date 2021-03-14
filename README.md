@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 <p align="left">
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/html-5.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/css3.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/c-programming.png"/><br>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/><br>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/c-programming.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluent/2x/github.png"/><br>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/><br>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluent/2x/github.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/git.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/visual-studio-2019.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluent/2x/spyder-ide.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png"/>
+  <!-- <img width="10%" style="padding:5px" src="https://img.icons8.com/color/2x/visual-studio-2019.png"/> -->
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluent/2x/spyder-ide.png"/>
   
 </p>
