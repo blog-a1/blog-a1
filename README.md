@@ -34,8 +34,16 @@
 </p>
 <br><br>
 
+<!--
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=blog-a1&show_icons=true&theme=dark&line_height=27">
 	<br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blog-a1&hide=html,css,java&theme=dark">
+</p>
+-->
+
+<p align = "center">
+	<img src="https://github-readme-stats.vercel.app/api?username=blog-a1&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blog-a1&https://github-readme-stats&theme=dark">
 </p>
