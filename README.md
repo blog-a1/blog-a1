@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/vishal-s-164743193/"><img alt="linkedin" width="5%" style="padding:5px" src="https://img.icons8.com/fluent/2x/linkedin-2.png"/></a>
-	<a href="https://twitter.com/vishalxlv2/"><img alt="twitter" width="5%" style="padding:5px" src="https://img.icons8.com/color/2x/twitter.png"/></a>
+	<!--<a href="https://twitter.com/vishalxlv2/"><img alt="twitter" width="5%" style="padding:5px" src="https://img.icons8.com/color/2x/twitter.png"/></a> -->
 </p>
 <br>
 
