@@ -16,7 +16,7 @@
 </p>
 <br>
 
-<h3 align="center">Tools & Technologies</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
   <img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/html-5.png"/>
