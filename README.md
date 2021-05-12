@@ -19,9 +19,9 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/html-5.png"/>
+  <!--<img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/html-5.png"/> 
   <img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/css3.png"/>
-  <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/><br>
+  <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/><br> -->
   <img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/c-programming.png"/>
   <img width="8%" style="padding:5px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
   <img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
